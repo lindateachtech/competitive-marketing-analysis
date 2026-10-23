@@ -1,0 +1,53 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "1.0.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "salesfact.total_category_volume": {
+			      "Binding": {
+			        "ConceptualEntity": "Sales",
+			        "ConceptualProperty": "Total Category Volume"
+			      },
+			      "State": "Generated"
+			    },
+			    "salesfact.total_units_ytd_var_": {
+			      "Binding": {
+			        "ConceptualEntity": "Sales",
+			        "ConceptualProperty": "Total Units YTD Var %"
+			      },
+			      "State": "Generated"
+			    },
+			    "salesfact.units_market_share": {
+			      "Binding": {
+			        "ConceptualEntity": "Sales",
+			        "ConceptualProperty": "% Units Market Share"
+			      },
+			      "State": "Generated"
+			    },
+			    "salesfact.total_vanarsdel_units": {
+			      "Binding": {
+			        "ConceptualEntity": "Sales",
+			        "ConceptualProperty": "Total VanArsdel Units"
+			      },
+			      "State": "Generated"
+			    },
+			    "geo.state": {
+			      "Binding": {
+			        "ConceptualEntity": "Geo",
+			        "ConceptualProperty": "State"
+			      },
+			      "State": "Generated"
+			    },
+			    "category.channel": {
+			      "Binding": {
+			        "ConceptualEntity": "Category",
+			        "ConceptualProperty": "Channel"
+			      },
+			      "State": "Generated"
+			    }
+			  }
+			}
+		contentType: json
+
