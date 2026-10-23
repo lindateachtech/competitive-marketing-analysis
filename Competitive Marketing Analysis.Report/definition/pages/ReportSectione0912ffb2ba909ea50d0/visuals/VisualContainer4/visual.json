@@ -41,10 +41,11 @@
                       "Entity": "Category"
                     }
                   },
-                  "Property": "Channel"
+                  "Property": "Category"
                 }
               },
-              "queryRef": "Category.Channel"
+              "queryRef": "Category.Category",
+              "nativeQueryRef": "Category"
             }
           ]
         },
