@@ -41,11 +41,11 @@
                       "Entity": "Calculations"
                     }
                   },
-                  "Property": "Products Sold"
+                  "Property": "Sales Records"
                 }
               },
-              "queryRef": "Calculations.Products Sold",
-              "nativeQueryRef": "Products Sold"
+              "queryRef": "Calculations.Sales Records",
+              "nativeQueryRef": "Sales Records"
             }
           ]
         }
