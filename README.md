@@ -26,3 +26,4 @@ Repositorio de práctica con un informe de Power BI guardado como proyecto (.pbi
 ## Notas
 
 Este repositorio es solo para practicar. No subas datos reales ni credenciales.
+El informe de ejemplo procede de [microsoft/powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples), licencia MIT, © Microsoft Corporation.
